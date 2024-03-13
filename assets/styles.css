@@ -1,0 +1,19 @@
+h1 {
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: tan;
+}
+
+h2 {
+    color: tan;
+    text-decoration: underline;
+}
+
+h3 {
+    color: darkgrey;
+}
+
+h4 {
+    color: brown;
+}
+
